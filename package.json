@@ -1,0 +1,11 @@
+{
+  "name": "sportnexus",
+  "version": "1.0.0",
+  "description": "An app that will allow you to find the nearest scheduled games for your sport. It will also allow you to login and set up a time and date for a basketball session",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeilani Mohamed",
+  "license": "MIT"
+}
